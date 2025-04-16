@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Hsfz1Noqu0ia2OaXOArEHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="c7efaa50-61da-461e-9a36-10474bbac2c3" CvTextArea="42, 211, 42, 16" CvTextArgument="SHA1" CvType="Text" DesignTimeRectangle="44, 205, 250, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='SHA1' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='SHA1' tag='A' type='' class='' check:innerText='SHA1' /&gt;" Guid="9e68b0d9-c699-472a-a88e-8de2e500ddd7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4f2f4082368e0f8001ad74184dcd8226.png" xmlns="">0SEnhPcz8MkGNiA-yJj1XVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

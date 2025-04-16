@@ -1,0 +1,14 @@
+﻿{
+  "Name": "SHA1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DL8FA_j-Pk-XVunJWqWTmg",
+  "Reference": "JX5xO-K-fEqEjfmNacRp2w/DL8FA_j-Pk-XVunJWqWTmg",
+  "ParentRef": "JX5xO-K-fEqEjfmNacRp2w/f-Hdl6zXD0uGYulK5vFwtw",
+  "Created": "2025-04-15T14:49:57.7763763Z",
+  "Updated": "2025-04-15T14:49:57.7763763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

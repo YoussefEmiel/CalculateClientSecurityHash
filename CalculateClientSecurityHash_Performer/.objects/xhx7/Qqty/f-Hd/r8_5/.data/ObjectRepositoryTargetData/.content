@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l82VlOy8oUug46pQaelfkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="cfeb9c45-c273-4938-ba8f-77c283421f98" CvElementArea="812, 691, 1114, 296" CvType="InputBox" DesignTimeRectangle="809, 698, 1120, 292" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='output' tag='TEXTAREA' type='' class='container' placeholder='Output here...' aaname='' /&gt;" Guid="53826d01-91bd-4fec-bd22-85a3a6cf558c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cfeb9c45-c273-4938-ba8f-77c283421f98" CvTextArea="827, 665, 57, 21" CvTextArgument="Output" CvType="Text" DesignTimeRectangle="827, 665, 57, 21" ElementType="Text" Guid="ce134848-a14b-45f6-901f-c77a92423ba2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5c059eb4acdf2c2bcaece3d23199db43.png" xmlns="">0GqlxcmBOV0-wSZGi0xKeDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
